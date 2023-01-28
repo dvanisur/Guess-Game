@@ -1,7 +1,6 @@
-# Guess-Game
+# Guess-Game . 
 
 This is an interesting game. Lets play!
-
 
       from random import randint
 
