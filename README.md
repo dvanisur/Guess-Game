@@ -1,6 +1,6 @@
 # Guess-Game.
 
-This is an interesting game. Lets play!......
+This is an interesting game. Lets play!.....
 
       from random import randint
 
